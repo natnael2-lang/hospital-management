@@ -1,0 +1,62 @@
+.main-element{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    
+}
+
+
+.labpage{
+    min-width: 60%;
+    max-width: 500px;
+    min-height: 60vh;
+    height: auto;
+
+}
+
+.announcement{
+    background-color: rgb(234, 234, 242);
+    box-shadow: 2px 2px 5px rgb(236, 225, 225), -2px -2px 5px rgb(197, 175, 175);
+    border-radius: 20px;
+}
+
+.todo-list{
+    background-color: rgb(234, 234, 242);
+    box-shadow: 2px 2px 5px rgb(236, 225, 225), -2px -2px 5px rgb(197, 175, 175);
+    border-radius: 20px;
+}
+.title1{
+    background-color: rgb(45, 61, 76);
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+
+}
+
+.element{
+    min-height: 150px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-bottom: 30px;
+}
+
+
+.title2{
+    background-color: rgb(45, 61, 76);
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+}
+
+
+.list{
+    margin: 10px;
+    min-height: 150px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-bottom: 30px;
+    
+    
+}
