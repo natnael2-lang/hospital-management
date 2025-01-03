@@ -27,7 +27,7 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 600;
 }
-sp/src/Componenet/EmployeeMain/EmployeeDetail/EmployeeDetail.css
+/* sp/src/Componenet/EmployeeMain/EmployeeDetail/EmployeeDetail.css */
 .Employee-display {
     margin-top: 50px;
     flex: 0 0 50%; /* Set width for form container */
